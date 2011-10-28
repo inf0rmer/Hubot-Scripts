@@ -15,3 +15,9 @@ Dependencies (use npm to install):
 * request
 
 You can install these yourself or add them to your hubot installation's `package.json` file
+
+## Dribbble
+Will use the Dribbble JSON API to fetch a random result from the
+specified list.
+
+Usage: `<bot-name> dribble (or db) me shots from <list>`
